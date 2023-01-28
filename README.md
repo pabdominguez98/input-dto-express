@@ -1,1 +1,1 @@
-# input-dto-express
+# Input DTO and Validator example for express and Node.js
